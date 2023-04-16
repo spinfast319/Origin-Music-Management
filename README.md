@@ -16,22 +16,22 @@ The fourth phase is just adding them to your music app.
 This is the order of the scripts that are run.
 
 Phase 1: Collect
-- M:\music-util\origin-scripts\Missing-Origin\Missing-Origin.py
-- M:\music-util\origin-scripts\Origin-Cover\Origin-Cover.py
-- M:\music-util\origin-scripts\Origin-Combine-Genres\Origin-Combine-Genres.py
-- M:\music-util\origin-scripts\FreezeTag-Recursive\FreezeTag-Recursive.py
+- [M:\music-util\origin-scripts\Missing-Origin\Missing-Origin.py](https://github.com/spinfast319/Missing-Origin)
+- [M:\music-util\origin-scripts\Origin-Cover\Origin-Cover.py](https://github.com/spinfast319/Origin-Cover)
+- [M:\music-util\origin-scripts\Origin-Combine-Genres\Origin-Combine-Genres.py](https://github.com/spinfast319/Origin-Combine-Genres)
+- [M:\music-util\origin-scripts\FreezeTag-Recursive\FreezeTag-Recursive.py](https://github.com/spinfast319/FreezeTag-Recursive)
 
 Phase 2: Sort
-- M:\music-util\origin-scripts\Standard-Folder\Standard-Folder.py
-- M:\music-util\origin-scripts\Find-Missing-Tags\Find-Missing-Tags.py
-- M:\music-util\origin-scripts\Origin-Find-Missing-Labels\Origin-Find-Missing-Labels.py
-- M:\music-util\origin-scripts\Sort-Origin\Sort-Origin.py
+- [M:\music-util\origin-scripts\Standard-Folder\Standard-Folder.py](https://github.com/spinfast319/Standard-Folder)
+- [M:\music-util\origin-scripts\Find-Missing-Tags\Find-Missing-Tags.py](https://github.com/spinfast319/Find-Missing-Tags)
+- [M:\music-util\origin-scripts\Origin-Find-Missing-Labels\Origin-Find-Missing-Labels.py](https://github.com/spinfast319/Origin-Find-Missing-Labels)
+- [M:\music-util\origin-scripts\Sort-Origin\Sort-Origin.py](https://github.com/spinfast319/Sort-Origin)
 
 Phase 3: Tag & Rename
-- M:\music-util\origin-scripts\Origin-Write-Metadata\Origin-Write-Metadata.py
-- M:\music-util\origin-scripts\Origin-Write-Genres\Origin-Write-Genres.py
-- M:\music-util\origin-scripts\Rename-Flac-Files\Rename-Flac-Files.py
-- M:\music-util\origin-scripts\Sort-Rename\Sort-Rename-Music-Directory.py
+- [M:\music-util\origin-scripts\Origin-Write-Metadata\Origin-Write-Metadata.py](https://github.com/spinfast319/Origin-Write-Metadata)
+- [M:\music-util\origin-scripts\Origin-Write-Genres\Origin-Write-Genres.py](https://github.com/spinfast319/Origin-Write-Genres)
+- [M:\music-util\origin-scripts\Rename-Flac-Files\Rename-Flac-Files.py](https://github.com/spinfast319/Rename-Flac-Files)
+- [M:\music-util\origin-scripts\Sort-Rename\Sort-Rename-Music-Directory.py](https://github.com/spinfast319/Sort-Rename-Music-Directory)
 
 
 Phase 4: 
